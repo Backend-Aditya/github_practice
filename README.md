@@ -1,1 +1,1 @@
-# e-commerce project made with html css & bootstrap theme and backend is created in laravel
+# This is my GitHub repo just for practice
